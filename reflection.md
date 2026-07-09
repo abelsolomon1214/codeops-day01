@@ -1,4 +1,4 @@
-# Reflection
+# Reflection
 
 ## 1. What is the difference between Git and GitHub?
 
@@ -23,4 +23,4 @@ The git commit command saves the staged changes as a permanent snapshot in the l
 3. git status
 4. git add .
 5. git commit -m "Meaningful message"
-6. git push[C[B
+6. git push
